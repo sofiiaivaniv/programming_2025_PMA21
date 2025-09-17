@@ -1,0 +1,16 @@
+Matrix1 + Matrix2:
+5 9
+5 10
+
+Matrix1 - Matrix2:
+3 5
+-1 2
+
+Matrix1 * Matrix2:
+25 36
+20 28
+
+Matrix1 / Matrix2:
+2.5 0.5
+5.0 -1.0
+
