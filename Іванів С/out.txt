@@ -1,0 +1,8 @@
+Sum:
+7.0 7.0 7.0
+Difference:
+3.0 3.0 3.0
+Product:
+10.0 10.0 10.0
+Division:
+2.5 2.5 2.5
